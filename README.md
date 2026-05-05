@@ -1,16 +1,23 @@
-## Hi there 👋
+# Jordan — Cybersecurity Portfolio
 
-<!--
-**jloffsec/jloffsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Transitioning into offensive security with a background in IT, 
+networking, and operations management.
 
-Here are some ideas to get you started:
+Currently preparing for eJPTv2 | Next: Security+ → PNPT → OSCP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Focus areas
+- Network enumeration and reconnaissance
+- Web application pentesting
+- Linux privilege escalation
+
+## Certifications in progress
+- [ ] eJPTv2
+- [ ] CompTIA Security+
+
+## Background
+5+ years in IT support, network installation, and systems administration.
+Currently Deputy Director at an automotive services company — 
+operations, logistics, and team management.
+
+## Connect
+[LinkedIn](https://www.linkedin.com/in/jloffsec/) | [TryHackMe](https://tryhackme.com/p/jloffsec)
